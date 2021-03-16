@@ -31,7 +31,7 @@ onPause 함수, onStop 함수, onDestory 함수
 
 onPause 함수, onStop 함수
 
-![onPause](https://user-images.githubusercontent.com/80028148/111308907-9b191880-869e-11eb-97cf-1389632964fe.PNG)
+![onPause](https://user-images.githubusercontent.com/80028148/111310298-46769d00-86a0-11eb-8991-b3890833130a.PNG)
 
 onRestart 함수, onStart 함수, onResume 
 
