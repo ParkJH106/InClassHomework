@@ -15,7 +15,7 @@
 ### In-Class Homework Week 3 Day1 #1 201921056 박정하
 ### Life Cycle 동영상 주소
 
-주소: https://youtu.be/bUrRO98d9jQ
+주소: https://www.youtube.com/watch?v=uWxag1lfgzI
 
 MainActivity.java 코드 일부
 
