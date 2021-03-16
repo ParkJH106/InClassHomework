@@ -21,9 +21,6 @@
 
 주소: https://www.youtube.com/watch?v=uWxag1lfgzI
 
-MainActivity.java 코드 일부
-
-![MainActivity](https://user-images.githubusercontent.com/80028148/111307707-2d202180-869d-11eb-98bd-4e3f41dda1d7.PNG)
 
 앱 실행시 => onCreate 함수, onStart 함수, onResume 함수 호출
 
