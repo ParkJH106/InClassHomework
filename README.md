@@ -33,7 +33,7 @@ Home Key, Power Key OFF (앱 중지) => onPause 함수, onStop 함수 호출
 
 ![onPause](https://user-images.githubusercontent.com/80028148/111310298-46769d00-86a0-11eb-8991-b3890833130a.PNG)
 
-Power Key ON => onRestart 함수, onStart 함수, onResume 
+Power Key ON => onRestart 함수, onStart 함수, onResume 함수 
 
 ![onRestart](https://user-images.githubusercontent.com/80028148/111308910-9ce2dc00-869e-11eb-865d-ae0be659f0d3.PNG)
 
